@@ -9,7 +9,7 @@ La cobertura de la ciudad es bastante buena, hace tiempo que no hay nuevas cober
 ### El #Mapathon.
 Las zona de Los Colores y el Barrio de San Germán cerca de la Universidad Nacional de Colombia han sido dividas en una grilla de 5x5. Para participar en el #Mapathon, simplemente debes de capturas imágenes con la aplicación de Mapillary de las calles y las aceras de cada zona. El voluntario que contribuya el mayor número de imágenes en cada zona cuando sea marcado como completa será el ganador de dicha zona. El voluntario que tenga el mayor número de zonas ganadas será declarado el ganador de #Mapathon. Habra unos premios sorpresa para aquellos voluntarios con el mayor número de zonas.
 
-Sí quieres tomar parte te invitamos a participar en los talleres los días **27,28,29 de Julio y el 3 de Agosto**. Para más información ir a www.datosabiertosmedellin.org, por favor confirmar su participación en la página de Meetup - https://www.meetup.com/es-ES/Datos-Abiertos-y-Gobierno-Abierto-en-Medellin/
+Sí quieres tomar parte te invitamos a participar en los talleres los días **27,29 de Julio y el 3 de Agosto**. Para más información ir a www.datosabiertosmedellin.org, por favor confirmar su participación en la página de Meetup - https://www.meetup.com/es-ES/Datos-Abiertos-y-Gobierno-Abierto-en-Medellin/
 
 ### Las reglas.
 
